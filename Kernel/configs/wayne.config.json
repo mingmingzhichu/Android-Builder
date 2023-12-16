@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "op7t",
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
+      "branch": "lineage-20",
+      "device": "hotdogb",
+      "defconfig": "vendor/SM8150-perf_defconfig"
     },
     "toolchains": [
       {
