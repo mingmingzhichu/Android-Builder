@@ -46,11 +46,11 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Google）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "op7t",
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
+      "branch": "lineage-20",
+      "device": "hotdogb",
+      "defconfig": "vendor/SM8150-perf_defconfig"
     },
     "toolchains": [
       {
@@ -92,11 +92,11 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Utsav）",
-      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
-      "branch": "android13-stable",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "op7t",
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
+      "branch": "lineage-20",
+      "device": "hotdogb",
+      "defconfig": "vendor/SM8150-perf_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
