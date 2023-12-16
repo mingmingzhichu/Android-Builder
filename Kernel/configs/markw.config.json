@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "op7t",
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150",
+      "branch": "lineage-20",
+      "device": "hotdogb",
+      "defconfig": "vendor/SM8150-perf_defconfig"
     },
     "toolchains": [
       {
